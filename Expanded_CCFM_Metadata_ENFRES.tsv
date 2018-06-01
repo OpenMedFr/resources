@@ -9,8 +9,8 @@
 #META#	AuthorBornAmb			If ambiguous, a = after, b = before, c = circa 	Si ambigu, a=après, b=avant, c=circa	En caso de ambigüedad, a = después, b = antes, c = circa
 #META#	AuthorDied			Year the author died	Année de décès de l'auteur	Año de deceso del autor
 #META#	AuthorDiedAmb			If ambiguous, a = after, b = before, c = circa 	Si ambigu, a=après, b=avant, c=circa	En caso de ambigüedad, a = después, b = antes, c = circa
-#META#	AuthorFl1			Beginning "floruit" year	Début de l'année ''floruit'' 	Inicio del año "floruit"
-#META#	AuthorFl2			Ending "floruit" year	Fin de l'année ''floruit'' 	Final del año "floruit"
+#META#	AuthorFl1			Beginning "floruit" year	Début de l'année "floruit" 	Inicio del año "floruit"
+#META#	AuthorFl2			Ending "floruit" year	Fin de l'année "floruit" 	Final del año "floruit"
 #META#	TextTitle	La vie de saint Alexi en vers octosyllabiques		Title given by the edition 	Titre donné par l'édition	Título dado por la edición
 #META#	TextSubtitle			Subtitle given by the edition	Sous-titre donné par l'édition	Subtítulo dado por la edición
 #META#	TextVols	1		Number of volumes	Nombre de volumes	Cantidad de volúmenes
