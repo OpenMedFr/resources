@@ -1,0 +1,42 @@
+Domaine en fr	Genre en fr	Domain in English	Genre in English	Domain in Spanish	Genre in Spanish
+Domaine didactique (mondaine)	Calendrier	didactic (did)	calendar	didáctico	calendario
+	Chasse	didactic (did)	hunting	didáctico	caza
+	Education morale	didactic (did)	moral	didáctico	educación moral
+	Encyclopédie	didactic (did)	encyclopedia	didáctico	enciclopedia
+	Héraldique	didactic (did)	heraldry	didáctico	heráldica
+	Langue	didactic (did)	language	didáctico	idioma
+	Médecine	didactic (did)	medicine	didáctico	medicina
+	Vie quotidienne	didactic (did)	daily_life	didáctico	vida_cotidiana
+	Autre	didactic (did)	other	didáctico	otro
+Domaine historique	Chronique	historical (hist)	chronicle	histórico	crónica
+	Histoire	historical (hist)	history	histórico	historia
+	Mémoires	historical (hist)	memoires	histórico	memorias
+	Biographie	historical (hist)	biography	histórico	biografía
+	autre	historical (hist)	other	histórico	otro
+Domaine juridique	Charte	juridical (jur)	charter	jurídico	carta?
+	Journal	juridical (jur)	diaries	jurídico	diario
+	Mixte	juridical (jur)	mixed	jurídico	mixto
+	Registre	juridical (jur)	register	jurídico	registro
+	Traité	juridical (jur)	treatise	jurídico	tratado
+	autre	juridical (jur)	other 	jurídico	otro
+Domaine littéraire	Allégorie	literary (lit)	allegory	literario	alegoría
+	Chanson	literary (lit)	song	literario	canción
+	Dramatique	literary (lit)	drama	literario	tragedia
+	Epique	literary (lit)	epic	literario	épico
+	Fabliau	literary (lit)	fabliau	literario	fabliau
+	Lyrique	literary (lit)	lyric	literario	lírico
+	Nouvelle	literary (lit)	novella	literario	novela corta
+	Récits brefs	literary (lit)	short	literario	cuentos
+	Récit voyage	literary (lit)	travel	literario	relato_de_viaje
+	Roman	literary (lit)	romance	literario	romance
+	Satire	literary (lit)	satire	literario	sátira
+	autre	literary (lit)	other	literario	otro
+Domaine religieux	Dramatique	religious (rel)	drama	religioso	dramático
+	Hagiographie	religious (rel)	hagiography	religioso	hagiografía
+	Miracle	religious (rel)	miracle	religioso	milagro
+	Psautier	religious (rel)	psalter	religioso	salterio
+	Règle	religious (rel)	rule	religioso	regla
+	Sermon	religious (rel)	sermon	religioso	sermón
+	Textes bibliques	religious (rel)	biblical texts	religioso	textos bíblicos
+	Théologie	religious (rel)	theology	religioso	teología
+	autre	religious (rel)	other	religioso	otro
