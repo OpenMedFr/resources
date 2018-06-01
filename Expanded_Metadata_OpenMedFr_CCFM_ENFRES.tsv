@@ -44,9 +44,9 @@ META	OpenMedFr English term	Sample data	CCFM recommendation	Note in English	Note
 #META#	DialScribe		Dialect du scribe	Dialect of the scribe	Dialecte du transcripteur	Dialecto del escriba
 #META#	ScanURL	http://www.persee.fr/doc/roma_0035-8029_1879_num_8_30_6463	Source de la numérisation	URL of the source pdf	Source URL du pdf	URL de la fuente en pdf
 #META#	ScanURIOther			Other information about the source pdf	Autre information à propos de la source pdf	Otra información sobre la fuente en pdf
-#META#	ArkID			An identifier in archive.org	Identificateur archive.org
-#META#	LccnID			Library of Congress Control Number	Identificateur LOC
-#META#	OclcID			WorldCat identifier	Identificateur WorldCat
+#META#	ArkID			An identifier in archive.org	Identificateur archive.org  	Identificador archive.org
+#META#	LccnID			Library of Congress Control Number	Identificateur LOC   	Identificador LOC 
+#META#	OclcID			WorldCat identifier	Identificateur WorldCat 	Identificador WorldCat 
 #META#	WebAuthor	David Joseph Wrisley		Attribution of the one preparing and publishing the open plain text version	Attribution du chargé de préparation and publication de la version valable et brute du texte	Atribución al encargado de la preparación y la publicación de la versión abierta del texto plano
 #META#	ORCIDWebAuthor	orcid.org/0000-0002-0355-1487
 #META#	WebReviewer			Attribution of the corrector of the open plain text version	Attribution du correcteur de la version valable et brute du texte	Atribución al corrector de la version abierta del texto plano
