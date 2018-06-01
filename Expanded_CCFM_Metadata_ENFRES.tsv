@@ -9,19 +9,19 @@
 #META#	AuthorBornAmb			If ambiguous, a = after, b = before, c = circa 	Si ambigu, a=après, b=avant, c=circa	En caso de ambigüedad, a = después, b = antes, c = circa
 #META#	AuthorDied			Year the author died	Année de décès de l'auteur	Año de deceso del autor
 #META#	AuthorDiedAmb			If ambiguous, a = after, b = before, c = circa 	Si ambigu, a=après, b=avant, c=circa	En caso de ambigüedad, a = después, b = antes, c = circa
-#META#	AuthorFl1			Beginning "floruit" year	Début de l'année ''floruit'' 	Inicio del año "floruit"
-#META#	AuthorFl2			Ending "floruit" year	Fin de l'année ''floruit'' 	Final del año "floruit"
+#META#	AuthorFl1			Beginning floruit year	Début de l'année ''floruit'' 	Inicio del año floruit
+#META#	AuthorFl2			Ending floruit year	Fin de l'année ''floruit'' 	Final del año floruit
 #META#	TextTitle	La vie de saint Alexi en vers octosyllabiques		Title given by the edition 	Titre donné par l'édition	Título dado por la edición
 #META#	TextSubtitle			Subtitle given by the edition	Sous-titre donné par l'édition	Subtítulo dado por la edición
 #META#	TextVols	1		Number of volumes	Nombre de volumes	Cantidad de volúmenes
 #META#	TextSubj	hagiography	Genre	Subject of text, as given by http://ccfm.ens-lyon.fr/spip.php?article26 and our translations	Sujet du texte, tel que fourni par http://ccfm.ens-lyon.fr/spip.php?article26 ainsi que nos traductions	Tema del texto como dado por http://ccfm.ens-lyon.fr/spip.php?article26 y nuestras traducciones
 #META#	TextDom		Domaine	Domain of text, as given by http://ccfm.ens-lyon.fr/spip.php?article26 and our translations	Domaine du texte, tel que fourni par http://ccfm.ens-lyon.fr/spip.php?article26 and our translations ainsi que nos traductions	Campo/dominio?? del texto como dado por http://ccfm.ens-lyon.fr/spip.php?article26 y nuestras traducciones
-#META#	Translation		Relation	"True" = translation "False" = not a translation	'True'' (Vrai)= traduction, ''False''(Faux)= pas une traduction	"True"(Verdadero)=traducción, "False"(Falso)=no es traducción
+#META#	Translation		Relation	True = translation False = not a translation	'True'' (Vrai)= traduction, ''False''(Faux)= pas une traduction	True(Verdadero)=traducción, False(Falso)=no es traducción
 #META#	Collection		Relation	The publishing collection	Fonds éditorial	Colección editorial
 #META#	CollectionNo		Relation	The volume number in the publishing collection	Le nombre de volumes dans le fonds éditorial	La cantidad de volúmenes en la colección editorial
-#META#	TextDescARL	vers octosyllabiques à rimes plates	Type de vers / structure interne	The description given in the field "forme" on the corresponding page at arlima.net	La description fournie dans le champ/domaine ''forme'' sur la page correspondante sur arlima.net	La descripción dada en el campo "forma" en la página correspondiente en arlima.net
+#META#	TextDescARL	vers octosyllabiques à rimes plates	Type de vers / structure interne	The description given in the field forme on the corresponding page at arlima.net	La description fournie dans le champ/domaine ''forme'' sur la page correspondante sur arlima.net	La descripción dada en el campo forma en la página correspondiente en arlima.net
 #META#	TextDescVers	8		The number of syllables listed as a number 	Le nombre de syllabes listé en tant que nombre	La cantidad de sílabas listadas como números
-#META#	TextDateARL	début du XIIIe siècle	Date du composition 	The description given in the field "date" on the corresponding page at arlima.net	La description fournie dans le champ/domaine ''date'' sur la page correspondante sur arlima.net	La descripción dada en el campo "fecha" en la página correspondiente en arlima.net
+#META#	TextDateARL	début du XIIIe siècle	Date du composition 	The description given in the field date on the corresponding page at arlima.net	La description fournie dans le champ/domaine ''date'' sur la page correspondante sur arlima.net	La descripción dada en el campo fecha en la página correspondiente en arlima.net
 #META#	TextDateAdj	d13		To facilitate computational translation of dates we have adjusted TextDateARL	Afin de faciliter la traduction informatique des dates, nous avons ajusté TextDateARL	Con el fin de facilitar la traducción computacional/informática de las fechas, hemos ajustado TextDateARL
 #META#	TextDateMin			The lower end of a year range for the date	Extrémité inférieure de la fourchette annuelle pour la date	El límite inferior de un intervalo anual para la fecha
 #META#	TextDateMax			The upper end of a year range for the date	Extrémité supérieure de la fourchette annuelle pour la date	El límite superior de un intervalo anual para la fecha
@@ -37,7 +37,7 @@
 #META#	MsDateARL			Date of manuscript 	Date de manuscrit	Fecha del manuscrito
 #META#	MsDateAdj			Adjusted date of manuscript	Date ajustée du manuscrit	Fecha ajustada del manuscrito
 #META#	Form		Forme	Form, verse (v), prose (p) or both (vp)	Forme, vers (v), prose (p), ou les deux (vp)	Forma, verso (v), prosa (p) o ambos (vp)
-#META#	Complete		Texte intégral/partiel	State of completion of the digital text here: "true" = complete, "false" = incomplete	Etat d'achèvement du texte digital ici  ''true"=complete, ''false''=incomplet	Estado de finalizacion del texto digital aquí: "verdadero"=completo, "falso"= incompleto
+#META#	Complete		Texte intégral/partiel	State of completion of the digital text here: true = complete, false = incomplete	Etat d'achèvement du texte digital ici  ''true=complete, ''false''=incomplet	Estado de finalizacion del texto digital aquí: verdadero=completo, falso= incompleto
 #META#	NoWords		Nombre de mots	Number of words in the text	Nombre de mots dans le texte	Número de palabras en el texto
 #META#	NoLines			Number of lines in the text (for verse only)	Nombre de lignes dans le texte (pour vers seulement)	Número de líneas en el texto (para versos solamente)
 #META#	DialAuth		Dialecte de l'auteur	Dialect of the author	Dialecte de l'auteur	Dialecto del autor
