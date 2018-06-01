@@ -12,7 +12,7 @@ medieval French (11-15th c. multiple dialect) (30M words).
 
 "Expanded Metadata for OpenMedFr" (2018). Open Medieval French. https://github.com/OpenMedFr/resources/blob/master/Metadata_Equivalence_OpenMedFr_CCFM.tsv
 
-"English and Spanish Translations of the CCFM's 'Liste d’autorité de domaines et de genres du CCFM'" (2018). Open Medieval French. 
+"English and Spanish Translations of the CCFM's 'Liste d’autorité de domaines et de genres du CCFM'" (2018). Open Medieval French. https://github.com/OpenMedFr/resources/blob/master/CCFM_Domain_Genre_List_ENFRES.tsv 
 
 "{100}{200}{300} MFW Stopword List for Medieval French" (2018). Open Medieval French.
 https://github.com/OpenMedFr/resources/blob/master/{100}{200}{300}stopwordsMF.txt
