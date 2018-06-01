@@ -48,7 +48,7 @@ META	OpenMedFr English term	Sample data	CCFM recommendation	Note in English	Note
 #META#	LccnID			Library of Congress Control Number	Identificateur LOC   	Identificador LOC 
 #META#	OclcID			WorldCat identifier	Identificateur WorldCat 	Identificador WorldCat 
 #META#	WebAuthor	David Joseph Wrisley		Attribution of the one preparing and publishing the open plain text version	Attribution du chargé de préparation and publication de la version valable et brute du texte	Atribución al encargado de la preparación y la publicación de la versión abierta del texto plano
-#META#	ORCIDWebAuthor	orcid.org/0000-0002-0355-1487
+#META#	ORCIDWebAuthor	orcid.org/0000-0002-0355-1487  See https://orcid.org/  Voir https://orcid.org/  Vease https://orcid.org/
 #META#	WebReviewer			Attribution of the corrector of the open plain text version	Attribution du correcteur de la version valable et brute du texte	Atribución al corrector de la version abierta del texto plano
 #META#	ORCIDReviewer
 #META#	MiscInfo		Autre	Any additional information 	Toute information additionelle	Cualquier información adicional
